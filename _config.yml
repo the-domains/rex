@@ -1,4 +1,20 @@
-analytics: {}
+name: rex
+favicon: null
+layout_spectrum: 0.211993
+typography_spectrum: 0.375
+title: Rex
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -8,11 +24,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.5780044295825064
   lightness: 0.9729957485105842
-  rhythmicContrast: 0.5143175600096583
   saturation: 0.6429317819420248
-cta: {}
-layout_spectrum: 0.211993
-name: rex
-opengraph: {}
+  rhythmicContrast: 0.5143175600096583
 purpose: []
-typography_spectrum: 0.375
